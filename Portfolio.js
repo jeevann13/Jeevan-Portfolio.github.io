@@ -1,6 +1,6 @@
 //For typed text
 var typed = new Typed(".Typed-text", {
-    strings: ["ront-End Developer!!"],
+    strings: ["I'm Jeevan!!"],
     typeSpeed: 50,
     backSpeed: 100,
     loop: true
