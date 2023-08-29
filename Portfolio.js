@@ -32,7 +32,3 @@ mobile_nav.onclick = function () {
     nav_header.classList.toggle('active');
 }
 
-
-
-
-
